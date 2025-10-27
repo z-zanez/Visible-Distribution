@@ -13,7 +13,7 @@ Training 仓库聚焦于大型语言模型训练过程中的关键统计：为�
 ```bash
 # 克隆仓库
 git clone https://github.com/z-zanez/Visible-Distribution.git
-cd Training
+cd Visible-Distribution
 
 # 安装依赖
 pip install -r requirements.txt
